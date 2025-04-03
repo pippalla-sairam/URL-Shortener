@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/api/generate/route": "/api/generate",
+  "/shorten/page": "/shorten",
+  "/[shorturl]/page": "/[shorturl]",
+  "/page": "/"
+}
